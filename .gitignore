@@ -139,3 +139,4 @@ backend/venv/
 backend/.venv/
 .agents
 .codex
+docs/
